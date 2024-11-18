@@ -78,8 +78,8 @@ This project was part of the DEPI Penetration Testing program provided by Sprint
 ---
 
 ## Contact Information  
-- **LinkedIn**: [Ali M. Abdelfatah](https://www.linkedin.com/in/ali-m-abdelfatah/)  
-- **Email**: ali.m.abdelfatah@example.com (replace with your email)  
+- **LinkedIn**: [Ali Abdelfatah](https://www.linkedin.com/in/3elwa)  
+- **Email**: 3li3bdelfatah.1@gmail.com
 
 ---
 
